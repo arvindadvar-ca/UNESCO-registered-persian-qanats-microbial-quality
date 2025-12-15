@@ -1,0 +1,25 @@
+Qanat ID,Qanats Names,Season,E. coli (MPN/100 mL),Water ingestion (L/d),Ingested dose
+1,Ebrahim Abad,wet,11000.00,2.00,220000.00
+,,dry,4300.00,2.00,86000.00
+2,Mazd Abad,wet,460.00,2.00,9200.00
+,,dry,42.00,2.00,840.00
+3,Vazvan,wet,3.00,2.00,60.00
+,,dry,74.00,2.00,1480.00
+4,Moon (upper),wet,75.00,2.00,1500.00
+,,dry,9.20,2.00,184.00
+,Moon (lower),wet,9.20,2.00,184.00
+,,dry,3.60,2.00,72.00
+5,Hasan Abad,wet,0.00,2.00,0.00
+,,dry,94.00,2.00,1880.00
+6,Zarch,wet,*excluded due to dryness,,
+,,dry,*excluded due to dryness,,
+7,Qasabeh,wet,43.00,2.00,860.00
+,,dry,3.00,2.00,60.00
+8,Baladeh,wet,75.00,2.00,1500.00
+,,dry,36.00,2.00,720.00
+9,Gowhar-riz,wet,3759.00,2.00,75180.00
+,,dry,150.00,2.00,3000.00
+10,Qasem Abad,wet,3759.00,2.00,75180.00
+,,dry,9.00,2.00,180.00
+11,Akbar Abad,wet,3759.00,2.00,75180.00
+,,dry,75.00,2.00,1500.00
