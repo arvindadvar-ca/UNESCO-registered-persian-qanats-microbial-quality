@@ -1,9 +1,7 @@
-Scripts used for data processing, statistical analysis, and health risk assessment.
+This folder contains the scripts and calculation files used in the study.
 
-This folder includes codes developed to:
-- Clean and preprocess raw groundwater quality data
-- Perform descriptive and comparative statistical analyses
-- Conduct microbial risk assessment calculations
-- Implement Monte Carlo simulations to account for variability and uncertainty
+- Data transformation and deterministic microbial risk assessment were performed using Microsoft Excel.
+- Probabilistic microbial risk assessment (Monte Carlo simulation with 10,000 iterations) was conducted using Python.
+- Correlation analysis between probabilistic risk outputs and model variables was performed using SPSS.
 
-All scripts are documented and can be used to reproduce the results presented in the manuscript.
+All files are provided to ensure transparency and reproducibility of the analyses.
