@@ -1,0 +1,11 @@
+Exposure Assessment
+
+The exposure assessment aimed to quantify the magnitude and frequency of human contact with *Escherichia coli* through the consumption of untreated qanat water. This component translates measured microbial concentrations into ingested doses by integrating site-specific water quality data with empirically derived exposure scenario assumptions that reflect actual local usage patterns.
+
+Measured *E. coli* concentrations obtained from field sampling campaigns constituted the primary exposure input. Concentrations were expressed as MPN/100 mL and were seasonally stratified to capture differences between wet and dry periods. Prior to risk modeling, raw microbiological data were subjected to quality control procedures, including removal of invalid measurements and verification of detection limits. Processed concentration datasets were then used consistently across subsequent risk assessment steps.
+
+Exposure frequency was determined based on field investigations and direct questionnaires administered to local users of qanat water. These surveys provided site-specific information on the number of days per year during which untreated qanat water was consumed, thereby ensuring that exposure frequency reflected real-world usage rather than assumed or literature-based values. In contrast, daily drinking water ingestion volumes were adopted from values commonly reported in the QMRA literature and international risk assessment guidelines.
+
+At the exposure assessment stage, the ingested microbial dose per exposure event was calculated by combining measured *E. coli* concentrations with the corresponding daily water ingestion volume. Seasonal differences in *E. coli* concentrations were preserved throughout all calculations, allowing exposure during wet and dry periods to be evaluated independently. Annual exposure was derived by combining the event-based ingested dose with the empirically determined number of exposure days per year.
+
+Processed exposure inputs generated in this stage served as direct inputs to the dose–response and risk characterization components of the QMRA. To ensure reproducibility and transparency, all processed exposure datasets were stored in the `data/processed` directory and accessed uniformly by the Python-based simulation scripts.
