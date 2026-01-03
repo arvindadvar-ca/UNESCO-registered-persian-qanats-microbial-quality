@@ -1,1 +1,1 @@
-This document provides a detailed description of the groundwater sampling strategy, laboratory analyses, data processing steps, and microbial risk assessment methodology applied in this study.
+This document provides a comprehensive description of the methodological framework applied in this study, including groundwater sampling and laboratory analyses, data processing procedures, quantitative microbial risk assessment (QMRA), probabilistic Monte Carlo modeling, and the treatment of uncertainty and methodological limitations.
