@@ -5,7 +5,7 @@ The dose–response assessment describes the quantitative relationship between t
 The β-Poisson model expresses the probability of infection, (P_{inf}), as a function of the ingested dose, (N), according to:
 
 [
-P{inf,day} = 1 - (1 + ((N/N{50})*(2^(1/alpha))) - 1)^(-alpha)
+P{inf,day} = 1 - (1 + ((N/N{50})*((2^(1/alpha)) - 1)))^(-alpha)
 ]
 
 where (alpha) is a dimensionless infectivity parameter and (N_{50}) represents the median infectious dose corresponding to a 50% probability of infection. Together, these parameters characterize pathogen virulence and host–pathogen interaction under the assumed exposure conditions.
