@@ -1,2 +1,2 @@
 # UNESCO-registered-persian-qanats-microbial-quality
-Data and analysis for groundwater microbial quality assessment in UNESCO-registered persian qanats
+Data and analysis for microbial groundwater quality and risk assessment in UNESCO-registered Persian qanats
